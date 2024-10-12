@@ -2,5 +2,5 @@
 using namespace std;
 int main(){
     cout<<"array program"<<endl;
-    return 0
+    return 0;
 }
